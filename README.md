@@ -1,1 +1,1 @@
-# wearable_transceiver
+# Interactive Stage Manager
